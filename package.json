@@ -1,0 +1,23 @@
+{
+  "name": "git-hutch",
+  "version": "0.0.0",
+  "description": "",
+  "main": "git-hutch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireVolkhov/git-hutch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FireVolkhov/git-hutch/issues"
+  },
+  "homepage": "https://github.com/FireVolkhov/git-hutch#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request": "^2.83.0"
+  }
+}
